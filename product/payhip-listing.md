@@ -1,33 +1,38 @@
-# Payhip Listing Draft
+# Payhip Listing — ForgeKit
 
 ## Product name
 
-ForgeKit — Developer Landing Page Template
+ForgeKit — Premium Developer Website Template
 
 ## Short description
 
-A polished, responsive landing page starter for developers, SaaS products, startups and digital products. Built with HTML, CSS and vanilla JavaScript.
+A complete multipage HTML, CSS and vanilla JavaScript website template with real interactions, polished motion and an interactive browser-side demo.
 
 ## Full description
 
-Launch a professional product website without starting from a blank file.
+Stop selling a screenshot and start selling a usable starting point.
 
-ForgeKit is a framework-free landing page template built for developers and creators who want clean code, responsive layouts and a modern visual system without a complicated setup.
+ForgeKit is a premium, framework-free website system for developers, SaaS products, startups, digital services and product launches. It includes six connected pages, a shared visual system and client-side interactions that make the template feel like a finished product.
 
-### What you get
+### Included
 
-- Complete responsive landing page
-- Hero and conversion-focused CTA sections
-- Feature and workflow sections
-- Pricing cards
-- FAQ accordion
-- Dark/light theme toggle
-- Responsive mobile navigation
-- Custom 404 page
-- Accessibility-focused foundation
-- SEO-ready metadata
+- Home landing page
+- Product / feature page
+- Interactive Demo Lab
+- Pricing page with monthly/yearly toggle
+- Documentation page
+- Contact page with validation + processing + success feedback
+- Branded 404 page
+- Scroll reveal animations
+- Animated counters
+- Hover depth effects
+- Dark / light theme persistence
+- Mobile navigation
+- Tabs and clipboard interaction
+- Client-side processing demo
+- Accessibility + reduced-motion support
 - GitHub Pages workflow
-- Customization guide
+- Customization documentation
 
 ### Technology
 
@@ -35,12 +40,16 @@ HTML5, CSS3 and Vanilla JavaScript.
 
 ### Requirements
 
-No build tools are required. Open the HTML file directly or deploy the folder to a static host.
+No framework. No npm install. No build step.
 
-### Suitable for
+### Best for
 
-Developer portfolios, SaaS landing pages, startup websites, app launches, product pages and digital services.
+SaaS, startup websites, developer products, AI product pages, portfolios, digital services, app launches and client projects.
 
 ### Suggested tags
 
-developer template, landing page, html template, css template, saas template, startup website, portfolio template, responsive website, frontend template, vanilla javascript
+developer template, multipage website template, html template, css template, vanilla javascript, saas website, startup template, landing page, frontend template, portfolio website, responsive website, product website, github pages
+
+### Important
+
+The processing and form flows are client-side demo implementations. Connect them to your own backend, API or form provider for production data handling.
