@@ -1,21 +1,31 @@
-# ForgeKit Single-Project Commercial License
+# ForgeKit Free Template License
 
 Copyright (c) 2026 Nexauren
 
-This license applies to customers who lawfully obtained a copy of ForgeKit.
+ForgeKit is provided free of charge under the following template license.
 
 ## You may
 
-Use the template to build one end product for yourself or one client. You may modify the HTML, CSS and JavaScript and publish the customized end product commercially.
+- Use ForgeKit for personal projects.
+- Use ForgeKit for commercial projects.
+- Use ForgeKit for multiple projects.
+- Modify the HTML, CSS, JavaScript and other included source files.
+- Publish and monetize your customized end products.
+- Use the template for client projects.
 
 ## You may not
 
-Resell or redistribute the unmodified template as a template. Do not upload the original template to a public repository for others to download. Do not package the template, substantially unchanged, inside another template marketplace product. Do not claim the original template source as your own creation.
+- Resell the original ForgeKit source as a template.
+- Redistribute the original or substantially unchanged template as a competing download.
+- Upload the original template to a public repository or marketplace for others to obtain as a template, except for the official ForgeKit distribution.
+- Claim the original unmodified template source as your own work.
 
 ## Ownership
 
-The original ForgeKit source remains the intellectual property of Nexauren. A customer receives a license to use the source, not ownership of the original template.
+The original ForgeKit source remains the intellectual property of Nexauren. This license grants usage rights; it does not transfer ownership of the original template.
 
-## Disclaimer
+## No warranty
 
-This is a product-use license template, not legal advice. Adapt it with professional legal guidance before commercial distribution if your sales platform or local law requires additional terms.
+ForgeKit is provided as-is, without warranty. You are responsible for adapting, testing and securing the template for your project.
+
+This is a template license and not legal advice.
