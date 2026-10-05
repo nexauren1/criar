@@ -1,38 +1,42 @@
-# Payhip Listing — ForgeKit
+# Payhip Listing — ForgeKit Free
 
 ## Product name
 
-ForgeKit — Premium Developer Website Template
+ForgeKit — Free Developer Website Template
+
+## Product type
+
+Free digital download
 
 ## Short description
 
-A complete multipage HTML, CSS and vanilla JavaScript website template with real interactions, polished motion and an interactive browser-side demo.
+A complete multipage HTML, CSS and vanilla JavaScript website template with real interactions, responsive design and an interactive browser-side demo.
 
 ## Full description
 
-Stop selling a screenshot and start selling a usable starting point.
+Build a polished developer, SaaS, startup or digital product website without starting from an empty folder.
 
-ForgeKit is a premium, framework-free website system for developers, SaaS products, startups, digital services and product launches. It includes six connected pages, a shared visual system and client-side interactions that make the template feel like a finished product.
+ForgeKit is a framework-free multipage website template designed to be easy to understand, customize and publish. It includes real page-to-page navigation, responsive layouts and browser-side interactions instead of a single static landing page.
 
 ### Included
 
 - Home landing page
 - Product / feature page
 - Interactive Demo Lab
-- Pricing page with monthly/yearly toggle
+- Example Pricing page with monthly/yearly toggle
 - Documentation page
-- Contact page with validation + processing + success feedback
+- Contact page with validation, processing and success feedback
 - Branded 404 page
 - Scroll reveal animations
-- Animated counters
-- Hover depth effects
+- Hover and depth effects
 - Dark / light theme persistence
-- Mobile navigation
+- Responsive mobile navigation
 - Tabs and clipboard interaction
 - Client-side processing demo
 - Accessibility + reduced-motion support
-- GitHub Pages workflow
+- Optional GitHub Pages workflow
 - Customization documentation
+- Free-use license for personal and commercial end products
 
 ### Technology
 
@@ -48,8 +52,14 @@ SaaS, startup websites, developer products, AI product pages, portfolios, digita
 
 ### Suggested tags
 
-developer template, multipage website template, html template, css template, vanilla javascript, saas website, startup template, landing page, frontend template, portfolio website, responsive website, product website, github pages
+developer template, free website template, multipage website template, html template, css template, vanilla javascript, saas website, startup template, frontend template, portfolio website, responsive website, product website, github pages
 
 ### Important
 
-The processing and form flows are client-side demo implementations. Connect them to your own backend, API or form provider for production data handling.
+The Demo Lab and Contact flow are front-end demonstrations. Connect them to your own backend, API, form provider or application logic when building a production project.
+
+The included pricing and testimonial content is sample content and should be replaced before publishing a real business website.
+
+## Suggested Payhip pricing
+
+Free
